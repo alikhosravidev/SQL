@@ -1,2 +1,8 @@
 # SQL
-This repository contains documentation and notes related to SQL.
+
+این مخزن شامل مستندات و نکات مربوط به SQL است. در اینجا می‌توانید اطلاعاتی درباره استفاده از SQL، بهترین شیوه‌ها، و مثال‌های مختلف پیدا کنید.
+
+## محتویات
+
+- [محدودیت‌های CONSTRAINT در SQL](constraint.md)
+
