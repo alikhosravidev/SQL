@@ -4,5 +4,5 @@
 
 ## محتویات
 
-- [محدودیت‌های CONSTRAINT در SQL](constraint.md)
+- [محدودیت‌های CONSTRAINT در SQL](CONSTRAINT.md)
 
